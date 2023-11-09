@@ -1,0 +1,13 @@
+function calculadora(  ){,
+let tabuada
+let num=pronpt("digitew um numero"),
+for(I=1;I=10;I++){
+TABUADA=({num} x $ {I}=$nro4Is/n`;
+}
+-let parar=´n`;
+
+while(parar=´ś`){
+calculartabuada()
+parar=´n`:
+parar=pronpt(´deseja digitar outro numero?)S/N`).
+}
