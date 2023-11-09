@@ -3,7 +3,7 @@ function calculadora(  ){,
 let tabuada
 let num=pronpt("digitew um numero"),
 for(I=1;I=10;I++){
-TABUADA=({num} x $ {I}=$nro4Is/n`;
+tabuada=({num} x $ {I}=$nro4Is/n`;
 }
 -let parar=´n`;
 
