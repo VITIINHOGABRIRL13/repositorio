@@ -1,3 +1,4 @@
+ <a>
 function calculadora(  ){,
 let tabuada
 let num=pronpt("digitew um numero"),
@@ -11,3 +12,4 @@ calculartabuada()
 parar=´n`:
 parar=pronpt(´deseja digitar outro numero?)S/N`).
 }
+</a>
